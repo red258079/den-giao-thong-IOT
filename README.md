@@ -9,4 +9,17 @@ Triển Khai trên môi trường Docker
    ```bash
    docker compose up -d
 
+---
+
+👉 Nếu nó lỗi thì hãy 
+   ```bash
+   docker compose down
+---
+và làm lại từ đầu
+```bash
+   docker compose up -d
+---
+
+Bạn có muốn mình tìm link thật cho file `OpenRemote Stack` không?
+
    
