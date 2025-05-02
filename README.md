@@ -2,9 +2,11 @@
 
 Triển Khai trên môi trường Docker
 1. Đảm bảo bạn đã cài đặt [Docker Desktop](https://www.docker.com/products/docker-desktop) (phiên bản 18 trở lên).
-2. Mở tệp Openremote trong đấy chứa file docker-compose.yml copy 
-3. Mở terminal và chuyển đến thư mục chứa tệp vừa tải bằng lệnh `cd`, sau đó chạy:
+2. Mở tệp Openremote trong đấy chứa file docker-compose.yml copy vào VS code và đặt tên file là docker-compose.yml và lưa lại
+3. Mở CMD và CD vào tệp bạn tạo trên máy vd: cd openremote ==> Enter xuống 
+4. Nhập những dòng dưới vào CMD hãy chắc chắn cmd bạn đang cd vào ổ đĩa chứa thư mục mà bạn đang dùng để lưa file docker-compose.yml
 
    ```bash
-   docker compose pull
-   docker compose -p openremote up
+   docker compose up -d
+
+   
