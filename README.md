@@ -18,5 +18,7 @@ và làm lại từ đầu:
 
    docker compose up -d
 
-
+### Login credentials
+Username: admin  
+Password: secret
    
