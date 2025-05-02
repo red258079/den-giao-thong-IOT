@@ -1,4 +1,4 @@
-# den-giao-thong-IOT
+# Den-giao-thong-IOT
 
 Triển Khai trên môi trường Docker
 
@@ -26,7 +26,7 @@ và làm lại từ đầu:
 docker compose up -d
 ```
 sau khi thực hiện thành công thì truy vập vào đường dẫn localhost
-## đăng nhập
+## Đăng nhập
 
 Username: admin  
 Password: secret
