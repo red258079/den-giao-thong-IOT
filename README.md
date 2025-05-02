@@ -9,7 +9,6 @@ Triển Khai trên môi trường Docker
    ```bash
    docker compose up -d
 
----
 
 👉 Nếu nó lỗi thì hãy:
    
