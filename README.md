@@ -19,6 +19,7 @@ docker compose up -d
 ```bash
 docker compose down
 ```
+sau khi thực hiện thành công thì truy vập vào đường dẫn localhost
 
 và làm lại từ đầu:
 
