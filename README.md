@@ -11,14 +11,13 @@ Triển Khai trên môi trường Docker
 
 ---
 
-👉 Nếu nó lỗi thì hãy 
-   ```bash
+👉 Nếu nó lỗi thì hãy:
+   
    docker compose down
----
-và làm lại từ đầu
-```bash
+   
+và làm lại từ đầu:
+
    docker compose up -d
----
 
 
    
