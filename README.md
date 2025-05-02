@@ -26,3 +26,7 @@ và làm lại từ đầu:
 docker compose up -d
 ```
 sau khi thực hiện thành công thì truy vập vào đường dẫn localhost
+## đăng nhập
+
+Username: admin  
+Password: secret
