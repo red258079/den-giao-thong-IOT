@@ -20,6 +20,5 @@ và làm lại từ đầu
    docker compose up -d
 ---
 
-Bạn có muốn mình tìm link thật cho file `OpenRemote Stack` không?
 
    
